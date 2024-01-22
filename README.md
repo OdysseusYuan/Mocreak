@@ -12,6 +12,12 @@
 - 支持至少43个国家或地区的语言作为Office界面语言。
 - 用户可安装 Word、PPT、Excel、Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype等多种组件。
 
+### 操作界面
+- Mocreak - 核心操作界面
+> ![images](https://gitee.com/OdysseusYuan/Mocreak/raw/master/preview/MainWindow.png)
+- Mocreak - Office Installer 界面
+> ![images](https://gitee.com/OdysseusYuan/Mocreak/raw/master/preview/OfficeInstaller.png)
+
 ### 使用方法
 - 从官网下载安装包，按照提示完成安装后即可运行。
 
