@@ -19,7 +19,7 @@
 > ![images](https://gitee.com/OdysseusYuan/Mocreak/raw/master/preview/OfficeInstaller.png)
 
 ### 使用方法
-- 从官网下载安装包，按照提示完成安装后即可运行。
+- 从官网 https://www.mocreak.com 下载安装包，按照提示完成安装后即可运行。
 
 ### 运行&测试
 - 为确保运行稳定，本软件仅支持在 Win7/Win8/Win8.1/Win10/Win11 等系统架构下运行。
@@ -31,5 +31,5 @@
 - 严禁任何人、企业、机构等通过非法手段破解/反编译本软件，若要获取扩展源码，请在官网下载。
 
 ### 关于
-- 如有建议、疑惑等，您可以发邮件至 [liukaiyuan@sjtu.edu.cn](mailto:liukaiyuan@sjtu.edu.cn) 交流探讨。
+- 如有建议、疑惑等，您可以发邮件至 liukaiyuan@sjtu.edu.cn 交流探讨。
 - © 2024 mocreak.com. All Rights Reserved.
