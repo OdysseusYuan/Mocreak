@@ -1,10 +1,10 @@
 #
 
 ## Mocreak
- > Mocreak 是一款一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
+ > Mocreak 是一款一键自动化下载、安装、部署正版 Office 的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
 
 软件特性：
-- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
+- 一键快速下载、安装、部署最新版 Microsoft Office 软件。
 - 提供简约、高效，且可自定义的图形界面，提升部署效率。
 - 支持将 Office 安装到其它分区，包括：固态硬盘、机械盘、可移动磁盘、闪盘、内存盘等。
 - 可任意组合安装 Word、PPT、Excel、Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype等组件。
