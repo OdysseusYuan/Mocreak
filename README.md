@@ -26,7 +26,7 @@
 ### 运行&测试
 - 为提升产品体验，现诚邀大家前来发表意见与反馈：https://www.wjx.cn/vm/hwNCD71.aspx
 - 为确保运行稳定，本软件支持在 Win10（21H2）/Win11 及以上版本的系统架构下运行。
-- 软件已经在 Windows 11 (2302) 版本的 x64、x86 系统进行了测试，运行正常、稳定。
+- 软件已经在 Windows 11 (23H2) 版本的 x64、x86 系统进行了测试，运行正常、稳定。
 
 ### 适用场景
 - 本工具仅能在非盈利条件下，为个人学习、研究或者欣赏 Office 软件之用，不可用作其他用途。
@@ -36,4 +36,4 @@
 
 ### 关于
 - 如有建议、疑惑等，您可以发邮件至 OdysseusYuan@foxmail.com 交流探讨。
-- © 2024 mocreak.com. All Rights Reserved.
+- © 2024 - 2025 mocreak.com. All Rights Reserved.
